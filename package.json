@@ -11,11 +11,11 @@
     "url": "https://github.com/consensys/ether-pudding.git"
   },
   "dependencies": {
-    "web3": "*",
+    "babel-core": "^6.4.0",
     "bluebird": "*",
-    "rimraf": "*",
     "node-dir": "*",
-    "babel": "*"
+    "rimraf": "*",
+    "web3": "*"
   },
   "license": "MIT License. Copyright Consensys LLC, and authors. All rights reserved."
 }
