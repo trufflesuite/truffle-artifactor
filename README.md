@@ -1,5 +1,9 @@
 # truffle-artifactor (formerly ether-pudding)
 
+### :warning: This repo is deprecated :warning:
+**Truffle has moved all modules to a monorepo at [trufflesuite/truffle](https://github.com/trufflesuite/truffle). See you over there!**
+
+-----------------------
 This package saves contract artifacts into into Javascript files that can be `require`'d. i.e.,
 
 ```javascript
